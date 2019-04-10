@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Coding Lama"
+title                    : "Simran"
 title_separator          : "-"
-name                     : "The Coding Lama"
+name                     : "Simran"
 description              : "Datascience Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -38,7 +38,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : light # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -106,15 +106,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sriram S"
-  avatar           : "/assets/me1.jpg"
-  bio              : "Machine learning, Deep learning, Cyber security, Bio-medical, NLP, IoT, Competative programming."
-  location         : "Chennai, India"
-  email            :
+  name             : "Simran Ketha"
+  avatar           : "/assets/Simran.jpg"
+  bio              : "Machine learning, Deep learning, Cyber Security, Image processing, IoT, NLP"
+  location         : "Hyderabad, India"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:sri27395ram@gmail.com
+      url: mailto:simiketha19@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,13 +126,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/TheCodingLama"
+      url: "https://github.com/simranketha"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
-      url: "https://www.kaggle.com/codinglama"
+      #url: 
       
 
 # Site Footer
