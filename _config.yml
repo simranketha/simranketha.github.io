@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" #"default"  "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simran"
+title                    : "Datascience Portfolio"
 title_separator          : "-"
 name                     : "Simran"
 description              : "Datascience Portfolio"
@@ -107,11 +107,11 @@ analytics:
 # Site Author
 author:
   name             : "Simran Ketha"
-  avatar           : "/assets/Simran.jpg"
-  bio              : "Machine learning, Deep learning, Cyber Security, Image processing, IoT, NLP"
+  avatar           : "/assets/simi_pic_final.jpg"
+  bio              : "M.Tech in Computational Engineering and Networking. Interested in Machine learning, Deep learning, Cyber Security, Image processing, IoT, NLP"
   location         : "Hyderabad, India"
   email            : 
-  links:
+  links
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:simiketha19@gmail.com
