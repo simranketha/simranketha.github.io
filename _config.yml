@@ -111,7 +111,7 @@ author:
   bio              : "M.Tech in Computational Engineering and Networking."
   location         : "Hyderabad, India"
   email            : 
-  links
+  links            :
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:simiketha19@gmail.com
