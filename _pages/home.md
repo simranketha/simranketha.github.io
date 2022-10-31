@@ -3,7 +3,7 @@ permalink: /
 hidden: true
 
 header:
-  image: /assets/images/brain-learning.jpg
+  image: /assets/images/images_try.png
   image_description: 
   caption: Wonders of Brain and Computer 
   tagline: Deep Learning, Computational Neuroscience and Image Processing.
