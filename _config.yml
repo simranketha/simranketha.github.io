@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "air" #"default"  "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simran Ketha"
+title                    : #"Simran Ketha"
 title_separator          : "-"
-name                     : "Simran"
+name                     : "K Simran"
 description              : "Simran Ketha"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/brain-learning.jpg"
+teaser                   : "/assets/images/brain-learning.jpg"
+logo                     : #"/assets/images/brain-learning.jpg"
 masthead_title           : " Simran Ketha"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
