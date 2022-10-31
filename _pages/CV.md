@@ -2,4 +2,4 @@
 permalink: /CV/
 title: "CV"
 ---
-<embed src="/assets/cv_final_Simi.pdf" type="pdf"/>
+<embed src="/assets/cv_final_Simi.pdf" type="application/pdf"/>
