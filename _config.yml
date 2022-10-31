@@ -118,7 +118,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "@Simran_Ketha"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Simran_Ketha"
     - label: "Facebook"
@@ -139,12 +139,13 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-googlescholar"
       url: "https://scholar.google.com/citations?user=3k_akr4AAAAJ&hl=en"
-      
-
+    - label: ""
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Simran-Ketha"
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "@Simran_Ketha"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Simran_Ketha"
     - label: "Facebook"
@@ -162,6 +163,13 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: ""
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Simran-Ketha"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-googlescholar"
+      url: "https://scholar.google.com/citations?user=3k_akr4AAAAJ&hl=en"
+    
 
 
 # Reading Files
