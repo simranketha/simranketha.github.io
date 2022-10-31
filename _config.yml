@@ -112,7 +112,7 @@ author:
   location         : "Hyderabad, India"
   email            : 
   links            :
-    - label: "Email"
+    - label: ""
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:simiketha19@gmail.com
     - label: "Website"
@@ -124,7 +124,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/simranketha"
     - label: "Instagram"
@@ -133,11 +133,11 @@ author:
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
       #url: 
-    - label: "LinkedIn"
+    - label: ""
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/simranketha"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-googlescholar"
+    - label: ""
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=3k_akr4AAAAJ&hl=en"
     - label: ""
       icon: "fab fa-fw fa-researchgate"
@@ -167,7 +167,7 @@ footer:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Simran-Ketha"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-googlescholar"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=3k_akr4AAAAJ&hl=en"
     
 
