@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" #"default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" #"default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -136,6 +136,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/simranketha"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-googlescholar"
+      url: "https://scholar.google.com/citations?user=3k_akr4AAAAJ&hl=en"
       
 
 # Site Footer
