@@ -12,7 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" #"default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+title: Simran Ketha
+email: p20200021 [at] hyderabad.bits-pilani.ac.in
+subtitle: Deep Learning, Computational Neuroscience and Image Processing.
+name: Simran Ketha
+description: I am a PhD student researching selectivity, discriminability and ablation in deep neural network at BITS-Pilani Hyderabad.
+
+minimal_mistakes_skin    : "dirt" #"default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -112,9 +120,12 @@ author:
   location         : "Hyderabad, India"
   email            : 
   links            :
-    - label: ""
+    - label: "simiketha19@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:simiketha19@gmail.com
+    - label: "p20200021@hyderabad.bits-pilani.ac.in"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:p20200021@hyderabad.bits-pilani.ac.in
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -137,7 +148,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/simranketha"
     - label: ""
-      icon: "fab fa-fw fa-google-scholar"
+      #icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=3k_akr4AAAAJ&hl=en"
     - label: ""
       icon: "fab fa-fw fa-researchgate"
