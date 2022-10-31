@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : #"Simran Ketha"
 title_separator          : "-"
 name                     : "K Simran"
-description              : "Simran Ketha"
+description              : "K Simran"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/brain-learning.jpg"
 logo                     : #"/assets/images/brain-learning.jpg"
-masthead_title           : " Simran Ketha"
+masthead_title           : #" Simran Ketha"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -120,7 +120,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "@Simran_Ketha"
+      url: "https://twitter.com/Simran_Ketha"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -135,7 +135,7 @@ author:
       #url: 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin/in/simranketha"
+      url: "https://www.linkedin.com/in/simranketha"
       
 
 # Site Footer
