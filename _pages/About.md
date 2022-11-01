@@ -4,7 +4,7 @@ title: "About"
 ---
 
 
-I am a PhD Research Scholar working on **Selectivity, Discriminability and Ablation in Deep Neural Network** under the supervision of [Dr Venkatakrishnan Ramaswamy] (http://brain.bits-hyderabad.ac.in/venkat/) at BITS-Pilani Hyderabad, Telangana, India.
+I am a PhD Research Scholar working under the supervision of [Dr Venkatakrishnan Ramaswamy] (http://brain.bits-hyderabad.ac.in/venkat/) at BITS-Pilani Hyderabad, Telangana, India.
 
 
 The deep learning approach in the field of artificial intelligence emphasizes high capacity, scalable models that have the capability to learn distributed representations from the input dataset. Although these models have outperformed humans as measured on the datasets in question, how they are able to do so remains unclear. The aim is to get better clarity on the selectivity, discriminability, and ablation of neurons of neural networks in order to understand deep learning models.
