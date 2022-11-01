@@ -7,6 +7,11 @@ My current research is on Selectivity, Discriminability and Ablation in Deep neu
 
 Deep learning approach in the field of artificial intelligence emphasizes high capacity, scalable models that have the capability to learn distributed representations from the input dataset. Although these models have outperformed humans as measured on the datasets in question, how they are able to do so remains unclear. The aim is to get better clarity on the **selectivity, discriminability, and ablation of neurons of neural networks** in order to understand deep learning models.
 
+## Thesis:
+
+**Deep Learning based frameworks for cyber security applications**, M.Tech, 2020.
+**Artificial Intelligence-based smart mirror**, B.E, 2018.
+
 
 ## MOOC’s completed:
 ● [Machine Learning](https://coursera.org/share/f4b7d530982d2fbd8953530536530a3c) on [Coursera](https://www.coursera.org/learn/machine-learning). 
@@ -25,4 +30,3 @@ Deep learning approach in the field of artificial intelligence emphasizes high c
 
 ● Human identification by Ear Recognition: Identification of humans with their respective ear alone using deep learning architecture by applying data augmentation on mobileNetV2 architecture. Achieved an accuracy of 90% with 155 subjects.
 
-● AI-based smart mirror - BE (IT) project
