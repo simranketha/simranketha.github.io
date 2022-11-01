@@ -26,10 +26,10 @@ title: "Publications"
 ● Compered for "ACM India Celebration of Women in Computing" event being organized by Computer science department, BITS-Pilani, Hyderabad on October 8th 2022. 
 
 
-● Successfully attended and completed "Deep learning summer school" held by [Neuromatch Academy](https://academy.neuromatch.io/) 2021. Project was on [Investigating the visual information in different brain regions](https://deeplearning.neuromatch.io/_images/algonauts_videos.svg) where we trained voxel-wise model to predict fMRI responses in different brain regions from Alexnet model. 
+● Successfully attended and completed "Deep learning summer school 2021" held by [Neuromatch Academy](https://academy.neuromatch.io/). Project was on [Investigating the visual information in different brain regions](https://deeplearning.neuromatch.io/_images/algonauts_videos.svg) where we trained voxel-wise model to predict fMRI responses in different brain regions from Alexnet model. 
 
 
-● Successfully attended and completed Neuromatch Academy Summer schools for Computational neuroscience 2021 held by [Neuromatch Academy](https://academy.neuromatch.io/). Project titled "Through the Eye of the Principal Component Needle: Using PCA to Understand V1 Responses".
+● Successfully attended and completed Neuromatch Academy Summer schools for "Computational neuroscience 2021" held by [Neuromatch Academy](https://academy.neuromatch.io/). Project titled "Through the Eye of the Principal Component Needle: Using PCA to Understand V1 Responses".
 
 ● Attended IndoML Symposium 2021, held from december 16-18, 2021.
 
