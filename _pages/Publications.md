@@ -28,6 +28,19 @@ Successfully attended and completed "Deep learning summer school" held by [Neuro
 
 Successfully attended and completed Neuromatch Academy Summer schools for Computational neuroscience 2021 held by [Neuromatch Academy](https://academy.neuromatch.io/). Project titled "Through the Eye of the Principal Component Needle: Using PCA to Understand V1 Responses".
 
+Attended IndoML Symposium 2021, held from december 16-18, 2021.
+
+Attended Google Research India Graduate Symposium, held from April 7-10, 2021.
+
+Attended Indo-French Joint Workshop on Statistics and Artificial Intelligence for Data Science (SAIDS-2020) organized by Centre for Artificial Intelligence and Machine Learning, ISI-Kolkata.
+
+Attended FDP on Deep learning & its Applications conducted by IT-Warangal.
+
+Attended FDP on Machine Learning with Business Applications conducted by IIM-Bangalore, India.
+
+
+
+
 
 
 
