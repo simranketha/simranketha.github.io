@@ -3,6 +3,10 @@ permalink: /Teaching/
 title: "Teaching"
 ---
 
+Conducted a Training session in **Machine Learning and NLP** at C-DAC Trivandrum
+
+
+Conducted workshop on **Implementation of Machine Learning for Signal Processing using Keras** for M.Tech first year students at Amrita University, Coimbatore.
 
 ## Teaching Assistant
 ### First Semester 2020-2021
