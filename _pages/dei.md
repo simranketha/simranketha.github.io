@@ -3,9 +3,27 @@ permalink: /Teaching/
 title: "Teaching"
 ---
 
-I firmly believe in the 
 
-##
+## Teaching Assistant
+### First Semester 2020-2021
+CSF441 Deep Learning
+CSF469 Information Retrieval 
 
-##Teaching Assistant
+### Second Semester 2020-2021
+CSF212 Database System
+CSF372 Operating System
 
+### First Semester 2021-2022
+CSF222 Discrete Structures for Computer Science
+CSF429 Natural Language Processing
+
+### Second Semester 2021-2022
+CSF212 Database System
+BITSF464 Machine Learning
+
+### Summer Semester 2021-2022
+BITSF464 Machine Learning
+
+### First Semester 2022-2023
+CSF214 Logic in Computer Science
+CSF351 Theory of Computation
