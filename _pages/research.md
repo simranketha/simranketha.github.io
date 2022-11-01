@@ -12,17 +12,8 @@ Deep learning approach in the field of artificial intelligence emphasizes high c
 [Machine Learning](https://coursera.org/share/f4b7d530982d2fbd8953530536530a3c) on [Coursera](https://www.coursera.org/learn/machine-learning). 
 
 [Introduction to TensorFlow for Artificial Intelligence, Machine learning and deep learning](https://coursera.org/share/915840bca92a4b44f3e14af54682fa01) on [Coursera](https://www.coursera.org/learn/introduction-tensorflow)
-[Deep learning Specialization](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2) on [Coursera](https://www.coursera.org/specializations/deep-learning)
 
-Neural Networks and Deep Learning
-
-Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
-
-Structuring Machine Learning Projects
-
-Convolutional Neural Networks
-
-Sequence Models
+[Deep learning Specialization](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2) on [Coursera](https://www.coursera.org/specializations/deep-learning) containing Neural Networks and Deep Learning, Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization, Structuring Machine Learning Projects, Convolutional Neural Networks, and Sequence Models.
 
 
 
