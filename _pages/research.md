@@ -10,6 +10,7 @@ Deep learning approach in the field of artificial intelligence emphasizes high c
 ## Thesis:
 
 **Deep Learning based frameworks for cyber security applications**, M.Tech, 2020.
+
 **Artificial Intelligence-based smart mirror**, B.E, 2018.
 
 
