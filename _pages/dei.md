@@ -9,32 +9,25 @@ title: "Teaching"
 ● Conducted a workshop on **Implementation of Machine Learning for Signal Processing using Keras** for M.Tech first year students at Amrita University, Coimbatore.
 
 
+## Teaching Assistant (@BITS-Pilani, Hyderabad)
+● CS F441 Deep Learning, I Semester 2020-2021.
 
-## Teaching Assistant
-##### First Semester 2020-2021
-● CS F441 Deep Learning
+● CS F469 Information Retrieval, I Semester 2020-2021.
 
-● CS F469 Information Retrieval 
+● CS F212 Database System, II Semester 2020-2021.
 
-##### Second Semester 2020-2021
-● CS F212 Database System
+● CS F372 Operating System, II Semester 2020-2021.
 
-● CS F372 Operating System
+● CS F222 Discrete Structures for Computer Science, I Semester 2021-2022.
 
-##### First Semester 2021-2022
-● CS F222 Discrete Structures for Computer Science
+● CS F429 Natural Language Processing, I Semester 2021-2022.
 
-● CS F429 Natural Language Processing
+● CS F212 Database System, II Semester 2021-2022.
 
-##### Second Semester 2021-2022
-● CS F212 Database System
+● BITS F464 Machine Learning, II Semester 2021-2022.
 
-● BITS F464 Machine Learning
+● BITS F464 Machine Learning, Summer Semester 2021-2022.
 
-##### Summer Semester 2021-2022
-● BITS F464 Machine Learning
+● CS F214 Logic in Computer Science, I Semester 2022-2023.
 
-##### First Semester 2022-2023
-● CS F214 Logic in Computer Science
-
-● CS F351 Theory of Computation
+● CS F351 Theory of Computation, I Semester 2022-2023.
