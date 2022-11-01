@@ -11,30 +11,30 @@ title: "Teaching"
 
 
 ## Teaching Assistant
-### First Semester 2020-2021
+##### First Semester 2020-2021
 ● CS F441 Deep Learning
 
 ● CS F469 Information Retrieval 
 
-### Second Semester 2020-2021
+##### Second Semester 2020-2021
 ● CS F212 Database System
 
 ● CS F372 Operating System
 
-### First Semester 2021-2022
+##### First Semester 2021-2022
 ● CS F222 Discrete Structures for Computer Science
 
 ● CS F429 Natural Language Processing
 
-### Second Semester 2021-2022
+##### Second Semester 2021-2022
 ● CS F212 Database System
 
 ● BITS F464 Machine Learning
 
-### Summer Semester 2021-2022
+##### Summer Semester 2021-2022
 ● BITS F464 Machine Learning
 
-### First Semester 2022-2023
+##### First Semester 2022-2023
 ● CS F214 Logic in Computer Science
 
 ● CS F351 Theory of Computation
