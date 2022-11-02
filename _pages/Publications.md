@@ -25,15 +25,19 @@ title: "Publications"
 ## News
 ● Compered for "ACM India Celebration of Women in Computing" event being organized by Computer science department, BITS-Pilani, Hyderabad on October 8th 2022. 
 
+Succesfully completed my PhD Proposal Seminar with topic titled "Selectivity, Discriminability and Ablation in Deep Neural Networks" on April, 27th 2022.
 
 ● Successfully attended and completed "Deep learning summer school 2021" held by [Neuromatch Academy](https://academy.neuromatch.io/). Project was on [Investigating the visual information in different brain regions](https://deeplearning.neuromatch.io/_images/algonauts_videos.svg) where we trained voxel-wise model to predict fMRI responses in different brain regions from Alexnet model. 
-
 
 ● Successfully attended and completed Neuromatch Academy Summer schools for "Computational neuroscience 2021" held by [Neuromatch Academy](https://academy.neuromatch.io/). Project titled "Through the Eye of the Principal Component Needle: Using PCA to Understand V1 Responses".
 
 ● Attended IndoML Symposium 2021, held from december 16-18, 2021.
 
+● Successfully passed PhD Qualification Examination held in March-April 2021 at BITS Pilani, Hyderabad Campus. 
+
 ● Attended Google Research India Graduate Symposium, held from April 7-10, 2021.
+
+● Got selected for institute fellowship to purse full-time PhD at BITS-Pilani, Hyderabad campus from November,2020.
 
 ● Attended Indo-French Joint Workshop on Statistics and Artificial Intelligence for Data Science (SAIDS-2020) organized by Centre for Artificial Intelligence and Machine Learning, ISI-Kolkata.
 
