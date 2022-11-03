@@ -5,7 +5,7 @@ hidden: true
 header:
   image: /assets/images/s.jpg 
   image_description: 
-  caption: Wonders of Brain and Computer  
+  caption: 
   tagline: Deep Learning, Computational Neuroscience and Image Processing.
 
 ---
