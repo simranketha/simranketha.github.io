@@ -25,7 +25,7 @@ title: "Publications"
 ## News
 ● Compered for "ACM India Celebration of Women in Computing" event being organized by Computer science department, BITS-Pilani, Hyderabad on October 8th 2022. 
 
-Succesfully completed my PhD Proposal Seminar with topic titled "Selectivity, Discriminability and Ablation in Deep Neural Networks" on April, 27th 2022.
+● Succesfully completed my PhD Proposal Seminar with topic titled "Selectivity, Discriminability and Ablation in Deep Neural Networks" on April, 27th 2022.
 
 ● Successfully attended and completed "Deep learning summer school 2021" held by [Neuromatch Academy](https://academy.neuromatch.io/). Project was on [Investigating the visual information in different brain regions](https://deeplearning.neuromatch.io/_images/algonauts_videos.svg) where we trained voxel-wise model to predict fMRI responses in different brain regions from Alexnet model. 
 
