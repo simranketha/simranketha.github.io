@@ -52,7 +52,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/simi_pic_final.jpg"
+  avatar : "/assets/simi_pic_final.png"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
