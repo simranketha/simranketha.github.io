@@ -52,7 +52,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/linkedin.JPG"
+  avatar : "/assets/l_final.png"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
