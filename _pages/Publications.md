@@ -33,7 +33,12 @@ title: "Publications"
 
 
 ## News
-● Compered for "ACM India Celebration of Women in Computing" event being organized by Computer science department, BITS-Pilani, Hyderabad on October 8th 2022. 
+
+● Won the 1st Prize (joint) in the IndoML 2025 Grad Forum from among a field of ~70 posters, with the other winners being from IIT Kanpur, IIT Bombay and IIT Kharagpur.
+
+● Won the Best poster presentation in Department of Computer Science and Information Systems in Vidwanotsav-2023.
+
+● Compered for "ACM India Celebration of Women in Computing" event being organized by Department of Computer Science and Information Systems, BITS-Pilani, Hyderabad on October 8th 2022. 
 
 ● Succesfully completed my PhD Proposal Seminar with topic titled "Selectivity, Discriminability and Ablation in Deep Neural Networks" on April, 27th 2022.
 
@@ -54,6 +59,8 @@ title: "Publications"
 ● Attended FDP on Deep learning & its Applications conducted by IT-Warangal.
 
 ● Attended FDP on Machine Learning with Business Applications conducted by IIM-Bangalore, India.
+
+
 
 
 
