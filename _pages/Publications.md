@@ -3,33 +3,33 @@ permalink: /Publications/
 title: "Publications"
 ---
 
-● Akarsh, S., **Simran, K.**, Poornachandran, P., Menon, V. K., & Soman, K. P. (2019, March). Deep learning framework and visualization for malware classification. In 2019 5th International Conference on Advanced Computing & Communication Systems (ICACCS) (pp. 1059-1063). IEEE.
+● **Simran Ketha**, Venkatakrishnan Ramaswamy, [On the Dynamics & Transferability of Latent Generalization during Memorization](https://openreview.net/pdf?id=t024Zm0tKF), Transactions on Machine Learning Research, 2026.
 
-● **Simran, K.**, Sriram, S., Vinayakumar, R., & Soman, K. P. (2019, December). Deep learning approach for intelligent named entity recognition of cyber security. In International Symposium on Signal Processing and Intelligent Recognition Systems (pp. 163-172). Springer, Singapore.
-
-● **Simran, K.**, Balakrishna, P., Vinayakumar, R., & Soman, K. P. (2019, December). Deep learning approach for enhanced cyber threat indicators in Twitter stream. In International Symposium on Security in Computing and Communication(pp.135-145). Springer, Singapore.
-
-● **Simran, K.**, Balakrishna, P., Vinayakumar, R., & Soman, K. P. (2019, December). Deep Learning Based Frameworks for Handling Imbalance in DGA, Email, and URL Data Analysis. In International Conference on Computational Intelligence, Cyber Security, and Computational Models (pp. 93-104). Springer, Singapore.
-
-● Sriram, S., **Simran, K.**, Vinayakumar, R., Akarsh, S., & Soman, K. P. (2019, December). Towards evaluating the robustness of deep intrusion detection models in adversarial environment. In International Symposium on Security in Computing and Communication (pp. 111-120). Springer, Singapore.
-
-● Vinayakumar, R., Alazab, M., Srinivasan, S., Pham, Q. V., Padannayil, S. K., & **Simran, K.** (2020). A visualized botnet detection system based deep learning for the Internet of Things networks of smart cities. IEEE Transactions on Industry Applications, 56(4), 4436-4456.
-
-● Ravi, Vinayakumar & Alazab, Mamoun & Kp, Soman & Srinivasan, Sriram & Venkatraman, Sitalakshmi & Pham, Quoc-Viet & **Ketha, Simran.** (2021). Deep Learning for Cyber Security Applications: A Comprehensive Survey. 10.36227/techrxiv.16748161.
-
-● Srinivasan, S., Ravi, V., Alazab, M., **Ketha, S.**, Al-Zoubi, A. M., & Kotti Padannayil, S. (2021). Spam emails detection based on distributed word embedding with deep learning. In Machine intelligence and big data analytics for cybersecurity applications (pp. 161-189). Springer, Cham.
-
-● Sai Aparna, T., **Simran, K.**, Premjith, B., & Soman, K. P. (2021). Aspect-Based Sentiment Analysis in Hindi: Comparison of Machine/Deep Learning Algorithms. In Inventive Computation and Information Technologies (pp. 81-91). Springer, Singapore.
-
-● Nuthan Mummani, **Simran Ketha**, Venkatakrishnan Ramaswamy, [Peter Parker or Spiderman? Disambiguating Multiple Class Labels](https://arxiv.org/pdf/2410.19479), 38th Conference on Neural Information Processing Systems (NeurIPS 2024). ATTRIB Workshop.
-
-● **Simran Ketha**, Venkatakrishnan Ramaswamy, [Extracting Latent Generalization from Models Trained with Noisy Labels](https://openreview.net/pdf?id=9Uen9tVWUo), 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Reliable ML from Unreliable Data.
+● **Simran Ketha**, Venkatakrishnan Ramaswamy, [Decoding Generalization from Memorization in Deep Neural Networks](https://openreview.net/pdf?id=BeT6jaD6ao), Transactions on Machine Learning Research, 2026.
 
 ● **Simran Ketha**, Nuthan Mummani, Niranjan Rajesh, Venkatakrishnan Ramaswamy, [Adversarially-robust probes for Deep Networks](https://openreview.net/pdf?id=0MWW5zToNn), 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Reliable ML from Unreliable Data.
 
-● **Simran Ketha**, Venkatakrishnan Ramaswamy, [Decoding Generalization from Memorization in Deep Neural Networks](https://openreview.net/pdf?id=BeT6jaD6ao), Transactions on Machine Learning Research, 2026
+● **Simran Ketha**, Venkatakrishnan Ramaswamy, [Extracting Latent Generalization from Models Trained with Noisy Labels](https://openreview.net/pdf?id=9Uen9tVWUo), 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Reliable ML from Unreliable Data.
 
-● **Simran Ketha**, Venkatakrishnan Ramaswamy, [On the Dynamics & Transferability of Latent Generalization during Memorization](https://openreview.net/pdf?id=t024Zm0tKF), Transactions on Machine Learning Research, 2026
+● Nuthan Mummani, **Simran Ketha**, Venkatakrishnan Ramaswamy, [Peter Parker or Spiderman? Disambiguating Multiple Class Labels](https://arxiv.org/pdf/2410.19479), 38th Conference on Neural Information Processing Systems (NeurIPS 2024). ATTRIB Workshop.
+
+● Sai Aparna, T., **Simran, K.**, Premjith, B., & Soman, K. P. (2021). Aspect-Based Sentiment Analysis in Hindi: Comparison of Machine/Deep Learning Algorithms. In Inventive Computation and Information Technologies (pp. 81-91). Springer, Singapore.
+
+● Srinivasan, S., Ravi, V., Alazab, M., **Ketha, S.**, Al-Zoubi, A. M., & Kotti Padannayil, S. (2021). Spam emails detection based on distributed word embedding with deep learning. In Machine intelligence and big data analytics for cybersecurity applications (pp. 161-189). Springer, Cham.
+
+● Ravi, Vinayakumar & Alazab, Mamoun & Kp, Soman & Srinivasan, Sriram & Venkatraman, Sitalakshmi & Pham, Quoc-Viet & **Ketha, Simran.** (2021). Deep Learning for Cyber Security Applications: A Comprehensive Survey. 10.36227/techrxiv.16748161.
+
+● Vinayakumar, R., Alazab, M., Srinivasan, S., Pham, Q. V., Padannayil, S. K., & **Simran, K.** (2020). A visualized botnet detection system based deep learning for the Internet of Things networks of smart cities. IEEE Transactions on Industry Applications, 56(4), 4436-4456.
+
+● Sriram, S., **Simran, K.**, Vinayakumar, R., Akarsh, S., & Soman, K. P. (2019, December). Towards evaluating the robustness of deep intrusion detection models in adversarial environment. In International Symposium on Security in Computing and Communication (pp. 111-120). Springer, Singapore.
+
+● **Simran, K.**, Balakrishna, P., Vinayakumar, R., & Soman, K. P. (2019, December). Deep Learning Based Frameworks for Handling Imbalance in DGA, Email, and URL Data Analysis. In International Conference on Computational Intelligence, Cyber Security, and Computational Models (pp. 93-104). Springer, Singapore.
+
+● **Simran, K.**, Balakrishna, P., Vinayakumar, R., & Soman, K. P. (2019, December). Deep learning approach for enhanced cyber threat indicators in Twitter stream. In International Symposium on Security in Computing and Communication(pp.135-145). Springer, Singapore.
+
+● **Simran, K.**, Sriram, S., Vinayakumar, R., & Soman, K. P. (2019, December). Deep learning approach for intelligent named entity recognition of cyber security. In International Symposium on Signal Processing and Intelligent Recognition Systems (pp. 163-172). Springer, Singapore.
+
+● Akarsh, S., **Simran, K.**, Poornachandran, P., Menon, V. K., & Soman, K. P. (2019, March). Deep learning framework and visualization for malware classification. In 2019 5th International Conference on Advanced Computing & Communication Systems (ICACCS) (pp. 1059-1063). IEEE.
 
 
 ## News
