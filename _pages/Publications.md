@@ -27,9 +27,9 @@ title: "Publications"
 
 ● **Simran Ketha**, Nuthan Mummani, Niranjan Rajesh, Venkatakrishnan Ramaswamy, [Adversarially-robust probes for Deep Networks](https://openreview.net/pdf?id=0MWW5zToNn), 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Reliable ML from Unreliable Data.
 
-● **Simran Ketha**, Venkatakrishnan Ramaswamy, [Decoding Generalization from Memorization in Deep Neural Networks](https://openreview.net/forum?id=BeT6jaD6ao), Transactions on Machine Learning Research, 2026
+● **Simran Ketha**, Venkatakrishnan Ramaswamy, [Decoding Generalization from Memorization in Deep Neural Networks](https://openreview.net/pdf?id=BeT6jaD6ao), Transactions on Machine Learning Research, 2026
 
-● **Simran Ketha**, Venkatakrishnan Ramaswamy, [On the Dynamics & Transferability of Latent Generalization during Memorization](https://openreview.net/forum?id=t024Zm0tKF), Transactions on Machine Learning Research, 2026
+● **Simran Ketha**, Venkatakrishnan Ramaswamy, [On the Dynamics & Transferability of Latent Generalization during Memorization](https://openreview.net/pdf?id=t024Zm0tKF), Transactions on Machine Learning Research, 2026
 
 
 ## News
