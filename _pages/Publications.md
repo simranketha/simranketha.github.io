@@ -21,15 +21,15 @@ title: "Publications"
 
 ● Sai Aparna, T., **Simran, K.**, Premjith, B., & Soman, K. P. (2021). Aspect-Based Sentiment Analysis in Hindi: Comparison of Machine/Deep Learning Algorithms. In Inventive Computation and Information Technologies (pp. 81-91). Springer, Singapore.
 
+● Nuthan Mummani, **Simran Ketha**, Venkatakrishnan Ramaswamy, Peter Parker or Spiderman? Disambiguating Multiple Class Labels, 38th Conference on Neural Information Processing Systems (NeurIPS 2024). ATTRIB Workshop.
+
+● **Simran Ketha**, Venkatakrishnan Ramaswamy, Extracting Latent Generalization from Models Trained with Noisy Labels, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Reliable ML from Unreliable Data.
+
+● **Simran Ketha**, Nuthan Mummani, Niranjan Rajesh, Venkatakrishnan Ramaswamy, Adversarially-robust probes for Deep Networks, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Reliable ML from Unreliable Data.
+
 ● **Simran Ketha**, Venkatakrishnan Ramaswamy, Decoding Generalization from Memorization in Deep Neural Networks, Transactions on Machine Learning Research, 2026
 
 ● **Simran Ketha**, Venkatakrishnan Ramaswamy,On the Dynamics & Transferability of Latent Generalization during Memorization, Transactions on Machine Learning Research, 2026
-
-● Nuthan Mummani, **Simran Ketha**, Venkatakrishnan Ramaswamy, Peter Parker or Spiderman? Disambiguating Multiple Class Labels, 38th Conference on Neural Information Processing Systems (NeurIPS 2024). ATTRIB Workshop.
-
-● **Simran Ketha**, Venkatakrishnan Ramaswamy, Extracting Latent Generalization from Models Trained with Noisy Labels, NeurIPS 2025 Workshop: Reliable ML from Unreliable Data
-
-● **Simran Ketha**, Nuthan Mummani, Niranjan Rajesh, Venkatakrishnan Ramaswamy, Adversarially-robust probes for Deep Networks NeurIPS 2025 Workshop: Reliable ML from Unreliable Data
 
 
 ## News
